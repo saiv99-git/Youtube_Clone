@@ -1,4 +1,4 @@
-name: #youtube_$(Date:yyyymmdd)$(Rev:.r)
+name: youtube_$(Date:yyyymmdd)$(Rev:.r)
 trigger:
  - main
 pool:
