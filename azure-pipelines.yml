@@ -2,7 +2,7 @@ name: #youtube_$(Date:yyyymmdd)$(Rev:.r)
 trigger:
  - main
 pool:
-  name: azure pipeline
+  name: Azure Pipelines
 steps:
 - task: Npm@1
   inputs:
